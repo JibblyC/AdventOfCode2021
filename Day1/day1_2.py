@@ -1,6 +1,6 @@
 lines = []
 lines_as_ints = []
-with open('day1_1_input.txt') as f:
+with open('Day1/day1_1_input.txt') as f:
     lines = f.readlines()
 
 
