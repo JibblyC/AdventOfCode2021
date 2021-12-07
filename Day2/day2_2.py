@@ -1,5 +1,5 @@
 lines = []
-with open('Day2/day2_1_input.txt') as f:
+with open('Day2/day2_input.txt') as f:
     lines = f.readlines()
 
 
