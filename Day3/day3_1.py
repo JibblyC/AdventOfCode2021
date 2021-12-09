@@ -3,7 +3,6 @@ with open('Day3/day3_input.txt') as f:
     lines = f.readlines()
 
 stringArray = [""] * len(lines[0].strip())
-print(len(stringArray))
 
 for line in lines:
     count = 0
